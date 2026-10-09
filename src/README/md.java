@@ -2,9 +2,9 @@
 
  Student Information
 
-**Full Name:** Mariam Ahmed Gaafar
+**Full Name:** Leqaa Sameh Abdelmonem
 
-**Student ID:** 2301978
+**Student ID:** 2300272
 
 ---
 
